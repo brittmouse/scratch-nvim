@@ -39,3 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
+# lazy-lock (no need to commit package updates)
+lazy-lock.json
+
+*~
